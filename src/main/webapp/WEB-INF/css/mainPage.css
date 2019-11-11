@@ -1,0 +1,170 @@
+html,body{
+    height: 100%;
+    font-family: Arial;
+}
+#main_div{
+    overflow: hidden;
+}
+.topList{
+    overflow: hidden;
+    background-color: darkgrey;
+    height: 36px;
+}
+.allMes{
+    overflow: hidden;
+    background-color: dimgray;
+    color: white;
+    /*height: 36px;*/
+    width: 200px;
+    display: inline-block;
+    line-height: 36px;
+    padding: 0px 0px 0px 48px;
+    font-weight: bolder;
+    /*text-align: center;*/
+}
+.perCenter{
+    color: black;
+    width: 100px;
+    background-color: lightgrey;
+    display: inline-block;
+    line-height: 36px;
+    text-align: center;
+}
+.top_functions{
+    position: absolute;
+    display: inline-block;
+    margin: 8px 40px;
+}
+.perCenter a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.perCenter a:hover{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.top_functions a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.top_functions a:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.carousel-of-product{
+    height: 510px;
+    width:1024px;
+    margin:0px auto;
+}
+.carouselImage{
+    width:1000px;
+}
+.img_background{
+    width: 100%;
+    height: 470px;
+    top: 36px;
+    background-color: darkgrey;
+    position: absolute;
+    z-index: -1;
+}
+.function_list {
+    width: 448px;
+    position: relative;
+    /*top: 36px;*/
+    margin: 36px 0 0 0;
+    background-color: dimgray;
+    display: none;
+}
+.function_list a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.function_list a:hover{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.fl_div{
+    margin: 60px 55px;
+    border-bottom: solid white ;
+    padding-bottom: 15px;
+}
+#content_div01{
+    overflow: hidden;
+    display: block;
+    /*position: absolute;*/
+    top: 55%;
+    left: 10%;
+    width: 1000px;
+    margin:-10px auto;
+    border-radius: 15px;
+    padding: 10px;
+}
+#content_div02{
+    overflow: hidden;
+    display: block;
+    min-height: auto;
+    border-radius: 15px;
+    /*background-color: dimgray;*/
+    padding: 10px;
+    margin: 20px auto;
+}
+#content_div03{
+    text-align: center;
+    margin: 30px auto;
+    color: black;
+}
+.author_img{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+}
+#author{
+    overflow: hidden;
+}
+#author a{
+    text-decoration: none;
+    color: black;
+}
+#author h4{
+    display: inline-block;
+}
+#author a:hover{
+    text-decoration: none;
+    color: black;
+}
+#divide_div{
+    overflow: hidden;
+    display: block;
+    border-radius: 15px;
+    background-color: darkgrey;
+    width: 100%;
+    padding: 25px;
+    margin: 25px auto;
+}
+#nav_div{
+    text-align: center;
+    width: 100%;
+}
+#all_div{
+    top: 1000px;
+    overflow: hidden;
+}
+#up_button{
+    top: 70%;
+    left: 95%;
+    position: fixed;
+}
+#up_button a{
+    text-decoration: none;
+    color: black;
+}
+#up_button a:hover{
+    text-decoration: none;
+    color: black;
+}

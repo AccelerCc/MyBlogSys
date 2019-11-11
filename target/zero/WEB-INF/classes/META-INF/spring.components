@@ -1,0 +1,8 @@
+#
+#Sun Nov 10 23:48:31 CST 2019
+com.zero.controller.Regist=org.springframework.stereotype.Component
+com.zero.controller.PersonCenter=org.springframework.stereotype.Component
+com.zero.service.serviceImp.ServiceImp=org.springframework.stereotype.Component
+com.zero.mapper.TheMapper=org.springframework.stereotype.Component
+com.zero.controller.MainPage=org.springframework.stereotype.Component
+com.zero.controller.Login=org.springframework.stereotype.Component
